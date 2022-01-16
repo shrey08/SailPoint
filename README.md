@@ -23,7 +23,7 @@ Cloud Infrastructure such as AWS, Azure, GCP
 
 Even if the role of the user changes or the geographic location changes, **Identity remains the key**.
 
->**Data & Compliance** 
+>**Data & Compliance**  
 >Protection of sensitive data is important and therefore there are regulations that an organization must abide by.
 
 ### Information Associated with Identities
@@ -32,7 +32,7 @@ Even if the role of the user changes or the geographic location changes, **Ident
 - Entitlements
 - Roles
 
->**Identity Governance** 
+>**Identity Governance**  
 >Ensuring right access without causing risk to the organization.
 
 ### Benefits of Identity Governance
